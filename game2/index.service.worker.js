@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1778418483|1431980155';
+const CACHE_VERSION = '1778428612|2432237448';
 /** @type {string} */
 const CACHE_PREFIX = 'Kula Bula-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
